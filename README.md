@@ -13,6 +13,6 @@
  Elephant : Uhh Ya he's Paul <br>
  Noah : Yeah ! Its gonna be hell of a lot harder for you now because he's going f****ig overboard <br>
  
-## Indentifying Paul using Image Classification Algorithm <br>
+## Indentifying Paul using Neural Network  <br>
 
  <a><img height="300" src="./extras/result.jpg" width="500"></a>&nbsp;&nbsp; <br>
